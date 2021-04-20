@@ -1,0 +1,30 @@
+// install fireBase in project
+yarn add firebase
+
+npm i react-navigation
+
+npm i react-native-gesture-handler
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install firebase --save
+
+npm i react-navigation-stack
+
+npm i react-redux
+npm i redux
+
+npm i expo-barcode-scanner
+
+npm i expo-status-bar
+
+npm i react-native-screens
+
+this.onLoginSuccess.bind(this)
+
+npm install --save react-native-flash-message
+
+npm install react-native-date-picker --save
+
+expo install @react-native-community/datetimepicker
+
+npm i @react-native-community/datetimepicker
